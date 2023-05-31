@@ -1,0 +1,7 @@
+fastapi
+unvicorn
+aiofiles
+jinja2
+odmantic
+pymongo[srv]
+aiohttp
