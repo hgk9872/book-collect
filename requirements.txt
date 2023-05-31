@@ -1,5 +1,5 @@
 fastapi
-unvicorn
+uvicorn
 aiofiles
 jinja2
 odmantic
